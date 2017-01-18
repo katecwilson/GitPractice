@@ -16,7 +16,9 @@ SAVE BUT DON'T PUBLISH
 git add [filename]  SHELVES "SNAPSHOT" VERSION AWAITING COMMIT; DUBBED "STAGE"  
 git add .   (NO FILENAME)  ADDS ALL RECENT CHANGES  
 git reset UN-ADDS/CHANGE  
-DECIDE, MAKE A VERSION, + IDENTIFY IT 
+DECIDE, MAKE A VERSION, + IDENTIFY IT   
 git commit -m "[clear message describing the changes you made]"  DECIDED, DONE VERSION (BUT NOT YET SHARED) WRITE LABEL OF YOUR LAST ACTION  
-PUBLISH, SHARE 
+PUBLISH, SHARE   
 git push origin master  PUSH = SYNC, DELIVER TO HUB, SHARED 
+COLLABORATE 
+Request access, importing others' to local = "Pulling"  
